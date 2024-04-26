@@ -1,0 +1,1 @@
+Excelente curso en el cual aprendi sobre Node.js, a usar EXPRESS, PUG, a conectarme a una base de datos como MySQL, todo es practica y con este curso me siento preparado para crear un servidor propio.
